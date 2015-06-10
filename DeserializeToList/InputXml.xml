@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PlayerList>
+  <Player>
+    <Id>1</Id>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+    <TotalGoalsScored>50</TotalGoalsScored>
+    <AverageGoalsPerGame>0.7</AverageGoalsPerGame>
+    <Team>
+      <Name>Arsenal</Name>
+      <YearEstablished>0</YearEstablished>
+    </Team>
+  </Player>
+  <Player>
+    <Id>2</Id>
+    <FirstName>Jack</FirstName>
+    <TotalGoalsScored>0</TotalGoalsScored>
+    <AverageGoalsPerGame>0</AverageGoalsPerGame>
+  </Player>
+</PlayerList>

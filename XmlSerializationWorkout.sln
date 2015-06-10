@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SkipUnassignedValues", "SkipUnassignedValues\01. SkipUnassignedValues.csproj", "{032F8597-35CF-4895-AF9B-71A816872887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. DeserializeToList", "DeserializeToList\02. DeserializeToList.csproj", "{0D3D3517-10AE-46CF-B361-D56E7067015F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. RemoveXmlNamespaces", "RemoveXmlNamespaces\03. RemoveXmlNamespaces.csproj", "{67768789-3D2D-4693-9B91-BEE2E1F7A45B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. ChangeOutputEncoding", "ChangeOutputEncoding\04. ChangeOutputEncoding.csproj", "{B656ACEE-C1E3-4976-B20D-BCA687ABF4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ValidationFailure", "ValidationFailure\05. ValidationFailure.csproj", "{CCBFA367-88DD-43F7-B944-055C1757604E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032F8597-35CF-4895-AF9B-71A816872887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032F8597-35CF-4895-AF9B-71A816872887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032F8597-35CF-4895-AF9B-71A816872887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032F8597-35CF-4895-AF9B-71A816872887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3D3517-10AE-46CF-B361-D56E7067015F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3D3517-10AE-46CF-B361-D56E7067015F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3D3517-10AE-46CF-B361-D56E7067015F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3D3517-10AE-46CF-B361-D56E7067015F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67768789-3D2D-4693-9B91-BEE2E1F7A45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67768789-3D2D-4693-9B91-BEE2E1F7A45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67768789-3D2D-4693-9B91-BEE2E1F7A45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67768789-3D2D-4693-9B91-BEE2E1F7A45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B656ACEE-C1E3-4976-B20D-BCA687ABF4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B656ACEE-C1E3-4976-B20D-BCA687ABF4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B656ACEE-C1E3-4976-B20D-BCA687ABF4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B656ACEE-C1E3-4976-B20D-BCA687ABF4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBFA367-88DD-43F7-B944-055C1757604E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBFA367-88DD-43F7-B944-055C1757604E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBFA367-88DD-43F7-B944-055C1757604E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBFA367-88DD-43F7-B944-055C1757604E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

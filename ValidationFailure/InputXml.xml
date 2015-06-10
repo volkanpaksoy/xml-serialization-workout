@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PlayerList>
+  <Customer>
+    <Id>1</Id>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+    <TotalGoalsScored>50</TotalGoalsScored>
+    <AverageGoalsPerGame>0.7</AverageGoalsPerGame>
+  </Customer>
+</PlayerList>
