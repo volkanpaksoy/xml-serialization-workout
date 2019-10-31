@@ -186,3 +186,4 @@ src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlow.Messaging.dll
 src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/OneFlowSDK.dll
 src/OneFlow.Adaptors.Avery.Schatzel.Console/bin/Debug/RabbitMQ.Client.dll
 TplWorkout/TestConsole/testfiles/*
+.DS_Store
